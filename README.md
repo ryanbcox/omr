@@ -25,6 +25,9 @@ This is a piano-only performance of *Living the Gospel of Jesus Christ* (words a
   - Timing and velocity are lightly humanized.
 
 ## Vocals
+
+> To swap in natural, neural child voices on a machine with Hugging Face access, see **[HANDOFF.md](HANDOFF.md)**.
+
 - **Melody and lyrics:** `src/lyrics.py` reads the lyric syllables and their x positions from the PDF's text layer. It attaches each syllable to the melody note under it, handling:
   - verse-specific lyrics (the "I will" / "I'll pre-" pickups and the "— —" rests)
   - melismas ("see!", "Lord's", "nite,")

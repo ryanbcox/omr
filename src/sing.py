@@ -6,6 +6,10 @@ the formants by k, which shortens the vocal tract the way a child's is shorter.
 
 python3 src/sing.py solo      -> output/..._girl_solo.mp3
 python3 src/sing.py chorus    -> output/..._childrens_chorus.mp3
+python3 src/sing.py midi      -> output/..._with_melody.mid (melody track + lyric events)
+python3 src/sing.py stems     -> output/stems/ (piano.wav + dry voice wavs, not committed)
+python3 src/sing.py score-json -> output/vocal_score.json (notes, seconds, lyrics, phonemes)
+python3 src/sing.py remix solo|chorus DIR -> mix DIR/<kind>_N.wav|.flac with output/stems_flac/piano.flac -> *_neural.mp3
 """
 import os, sys, re, math, random, subprocess, tempfile, wave
 import numpy as np
@@ -256,23 +260,42 @@ SINGERS = {
 }
 
 
-def main(kind):
+LABEL = {'solo': 'girl_solo', 'chorus': 'childrens_chorus'}
+PAN_GAIN = {kind: [(v[1], v[2]) for v in vs] for kind, vs in SINGERS.items()}
+
+
+def render_piano(path):
     midi = os.path.join(OUT, BASE + '.mid')
-    b2s = beat_to_sec_fn(midi)
+    subprocess.run(['fluidsynth', '-ni', '-q', '-g', '0.6', '-r', str(SR), '-R', '1', '-C', '0',
+                    '-o', 'synth.reverb.room-size=0.45', '-o', 'synth.reverb.level=0.5',
+                    '-F', path, SF, midi], check=True)
+
+
+def synth_dry_voices(kind, outdir):
+    """Write one dry mono wav per singer (timeline starts at MIDI time 0). Returns paths."""
+    b2s = beat_to_sec_fn(os.path.join(OUT, BASE + '.mid'))
     sylls = build_syllables(melody_events(), b2s)
+    paths = []
+    for i, (k, pan, gain, tsd, det, vr, vd) in enumerate(SINGERS[kind]):
+        rnd = random.Random(100 + i)
+        pho = make_pho(sylls, k, rnd, timing_sd=tsd, detune=det, vib_rate=vr, vib_depth=vd)
+        p = os.path.join(outdir, f'{kind}_{i + 1}_dry.wav')
+        synth_voice(pho, k, p)
+        paths.append(p)
+    return paths
+
+
+def mix_to_mp3(kind, piano_wav, voice_wavs, out):
+    """Pan/sum the dry voices, add reverb, put the voice ~3 dB over the piano, export MP3."""
     with tempfile.TemporaryDirectory() as td:
-        piano = os.path.join(td, 'piano.wav')
-        subprocess.run(['fluidsynth', '-ni', '-q', '-g', '0.6', '-r', str(SR), '-R', '1', '-C', '0',
-                        '-o', 'synth.reverb.room-size=0.45', '-o', 'synth.reverb.level=0.5',
-                        '-F', piano, SF, midi], check=True)
-        P = read_wav(piano)
+        P = read_wav(piano_wav)
+        if P.shape[1] == 1:
+            P = np.repeat(P, 2, 1)
         V = np.zeros((len(P) + SR * 2, 2), np.float32)
-        for i, (k, pan, gain, tsd, det, vr, vd) in enumerate(SINGERS[kind]):
-            rnd = random.Random(100 + i)
-            pho = make_pho(sylls, k, rnd, timing_sd=tsd, detune=det, vib_rate=vr, vib_depth=vd)
-            vp = os.path.join(td, f'v{i}.wav')
-            synth_voice(pho, k, vp)
-            a = read_wav(vp)[:, 0]
+        pg = PAN_GAIN[kind]
+        for i, vp in enumerate(voice_wavs):
+            pan, gain = pg[i % len(pg)]
+            a = read_wav(vp).mean(1)
             a = a / (np.abs(a).max() + 1e-9) * gain
             n = min(len(a), len(V))
             l, r = math.cos((pan + 1) * math.pi / 4), math.sin((pan + 1) * math.pi / 4)
@@ -289,8 +312,7 @@ def main(kind):
         mix[:len(Vr)] += Vr[:, :2] * (1.0 if kind == 'solo' else 1.1)   # voice ~3 dB over piano
         mixp = os.path.join(td, 'mix.wav')
         write_wav(mixp, mix / (np.abs(mix).max() + 1e-9) * 0.95)
-        label = {'solo': 'girl_solo', 'chorus': 'childrens_chorus'}[kind]
-        out = os.path.join(OUT, f'{BASE}_{label}.mp3')
+        label = LABEL[kind]
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', mixp, '-af',
                         'silenceremove=start_periods=1:start_threshold=-60dB,areverse,'
                         'silenceremove=start_periods=1:start_threshold=-70dB,afade=t=in:st=0:d=0.5,areverse,'
@@ -298,10 +320,85 @@ def main(kind):
                         '-ar', str(SR), '-codec:a', 'libmp3lame', '-b:a', '192k',
                         '-metadata', f'title=Living the Gospel of Jesus Christ ({label.replace("_", " ")})',
                         '-metadata', 'artist=Kathleen Kelly and Natalie Adams', out], check=True)
-        if os.environ.get('KEEP_STEMS'):
-            import shutil
-            shutil.copy(vraw, os.path.join(OUT, f'{label}_vocal_stem.wav'))
-        print('wrote', out)
+    print('wrote', out)
+
+
+def main(kind):
+    with tempfile.TemporaryDirectory() as td:
+        piano = os.path.join(td, 'piano.wav')
+        render_piano(piano)
+        voices = synth_dry_voices(kind, td)
+        mix_to_mp3(kind, piano, voices, os.path.join(OUT, f'{BASE}_{LABEL[kind]}.mp3'))
+
+
+def write_stems(d):
+    """output/stems/: piano.wav + every dry MBROLA voice, all starting at MIDI time 0."""
+    os.makedirs(d, exist_ok=True)
+    render_piano(os.path.join(d, 'piano.wav'))
+    for kind in SINGERS:
+        for p in synth_dry_voices(kind, d):
+            print('wrote', p)
+
+
+SAMPA2ARPA = {'i': 'iy', 'I': 'ih', 'E': 'eh', '{': 'ae', 'A': 'aa', 'V': 'ah', 'O': 'ao', 'U': 'uh',
+              'u': 'uw', '@': 'ah', 'r=': 'er', 'EI': 'ey', 'AI': 'ay', 'OI': 'oy', '@U': 'ow', 'aU': 'aw',
+              'p': 'p', 'p_h': 'p', 't': 't', 't_h': 't', 'k': 'k', 'k_h': 'k', 'b': 'b', 'd': 'd', 'g': 'g',
+              'f': 'f', 'v': 'v', 'T': 'th', 'D': 'dh', 's': 's', 'z': 'z', 'S': 'sh', 'Z': 'zh', 'h': 'hh',
+              'tS': 'ch', 'dZ': 'jh', 'm': 'm', 'n': 'n', 'N': 'ng', 'l': 'l', 'r': 'r', 'w': 'w', 'j': 'y'}
+
+
+def score_json(path):
+    """Engine-neutral vocal score: every sung note with seconds, lyric, phonemes (SAMPA + ARPAbet)."""
+    import json
+    b2s = beat_to_sec_fn(os.path.join(OUT, BASE + '.mid'))
+    sylls = build_syllables(melody_events(), b2s)
+    names = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
+    phrases, cur = [], []
+    for s in sylls:
+        ph = s['onset'] + [s['vowel']] + s['coda']
+        for j, (t0, t1, m) in enumerate(s['notes']):
+            cur.append(dict(start=round(t0, 4), end=round(t1, 4), midi=m,
+                            note=f'{names[m % 12]}{m // 12 - 1}',
+                            lyric=s['text'] if j == 0 else '-', word=s['word'],
+                            slur=j > 0,
+                            phonemes_sampa=ph if j == 0 else [],
+                            phonemes_arpabet=[SAMPA2ARPA[p] for p in ph] if j == 0 else []))
+        if s['breath']:
+            phrases.append(cur); cur = []
+    if cur:
+        phrases.append(cur)
+    doc = dict(title='Living the Gospel of Jesus Christ', tempo_note='times in seconds from MIDI tick 0; '
+               'matches output/living_the_gospel_of_jesus_christ.mid and output/stems/piano.wav',
+               phrases=[dict(start=p[0]['start'], end=p[-1]['end'], notes=p) for p in phrases])
+    json.dump(doc, open(path, 'w'), indent=1, ensure_ascii=False)
+    print('wrote', path, len(phrases), 'phrases', sum(len(p) for p in phrases), 'notes')
+
+
+def remix(kind, voice_dir):
+    """Re-mix with replacement vocals (e.g. after neural voice conversion).
+    Expects <voice_dir>/<kind>_N.wav (N = 1.. number of singers), aligned to MIDI time 0."""
+    n = len(SINGERS[kind])
+    with tempfile.TemporaryDirectory() as td:
+        def as_wav(p):
+            if p.endswith('.wav'):
+                return p
+            q = os.path.join(td, os.path.basename(p) + '.wav')
+            subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', p, '-ar', str(SR), q], check=True)
+            return q
+        voices = []
+        for i in range(n):
+            for ext in ('.wav', '.flac'):
+                p = os.path.join(voice_dir, f'{kind}_{i + 1}{ext}')
+                if os.path.exists(p):
+                    voices.append(as_wav(p)); break
+        assert voices, f'no {kind}_N.wav/.flac files in {voice_dir}'
+        stem = os.path.join(OUT, 'stems_flac', 'piano.flac')
+        if os.path.exists(stem):
+            piano = as_wav(stem)
+        else:
+            piano = os.path.join(td, 'piano.wav')
+            render_piano(piano)
+        mix_to_mp3(kind, piano, voices, os.path.join(OUT, f'{BASE}_{LABEL[kind]}_neural.mp3'))
 
 
 def melody_midi():
@@ -330,5 +427,14 @@ def melody_midi():
 
 
 if __name__ == '__main__':
-    kind = sys.argv[1] if len(sys.argv) > 1 else 'solo'
-    melody_midi() if kind == 'midi' else main(kind)
+    cmd = sys.argv[1] if len(sys.argv) > 1 else 'solo'
+    if cmd == 'midi':
+        melody_midi()
+    elif cmd == 'stems':
+        write_stems(os.path.join(OUT, 'stems'))
+    elif cmd == 'score-json':
+        score_json(os.path.join(OUT, 'vocal_score.json'))
+    elif cmd == 'remix':          # python3 src/sing.py remix solo|chorus <dir>
+        remix(sys.argv[2], sys.argv[3])
+    else:
+        main(cmd)

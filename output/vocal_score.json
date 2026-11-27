@@ -1,0 +1,5219 @@
+{
+ "title": "Living the Gospel of Jesus Christ",
+ "tempo_note": "times in seconds from MIDI tick 0; matches output/living_the_gospel_of_jesus_christ.mid and output/stems/piano.wav",
+ "phrases": [
+  {
+   "start": 11.0771,
+   "end": 16.7438,
+   "notes": [
+    {
+     "start": 11.0771,
+     "end": 11.4104,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "Oh,",
+     "word": "Oh",
+     "slur": false,
+     "phonemes_sampa": [
+      "@U"
+     ],
+     "phonemes_arpabet": [
+      "ow"
+     ]
+    },
+    {
+     "start": 11.4104,
+     "end": 11.7438,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 11.7438,
+     "end": 12.3688,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "joy",
+     "word": "joy",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "OI"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "oy"
+     ]
+    },
+    {
+     "start": 12.3688,
+     "end": 12.6813,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "that",
+     "word": "that",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "{",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ae",
+      "t"
+     ]
+    },
+    {
+     "start": 12.6813,
+     "end": 12.9938,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 12.9938,
+     "end": 13.6188,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "feel",
+     "word": "feel",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "i",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "iy",
+      "l"
+     ]
+    },
+    {
+     "start": 13.6188,
+     "end": 13.9313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "when",
+     "word": "when",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "E",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "eh",
+      "n"
+     ]
+    },
+    {
+     "start": 13.9313,
+     "end": 14.2438,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 14.2438,
+     "end": 14.8688,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "fol",
+     "word": "follow",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "A"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "aa"
+     ]
+    },
+    {
+     "start": 14.8688,
+     "end": 15.1813,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "low",
+     "word": "follow",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "@U"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ow"
+     ]
+    },
+    {
+     "start": 15.1813,
+     "end": 15.4938,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 15.4938,
+     "end": 16.1188,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "Sav",
+     "word": "Savior",
+     "slur": false,
+     "phonemes_sampa": [
+      "s",
+      "EI",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "s",
+      "ey",
+      "v"
+     ]
+    },
+    {
+     "start": 16.1188,
+     "end": 16.7438,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "ior,",
+     "word": "Savior",
+     "slur": false,
+     "phonemes_sampa": [
+      "j",
+      "r="
+     ],
+     "phonemes_arpabet": [
+      "y",
+      "er"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 16.7438,
+   "end": 21.1188,
+   "notes": [
+    {
+     "start": 16.7438,
+     "end": 17.3688,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 17.3688,
+     "end": 17.6813,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 17.6813,
+     "end": 17.9938,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 17.9938,
+     "end": 18.6188,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 18.6188,
+     "end": 18.9313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 18.9313,
+     "end": 19.2438,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 19.2438,
+     "end": 20.1813,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 20.1813,
+     "end": 20.4938,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 20.4938,
+     "end": 21.1188,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 21.7438,
+   "end": 26.7438,
+   "notes": [
+    {
+     "start": 21.7438,
+     "end": 22.3688,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "Car",
+     "word": "Caring",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "eh",
+      "r"
+     ]
+    },
+    {
+     "start": 22.3688,
+     "end": 22.6813,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "ing",
+     "word": "Caring",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 22.6813,
+     "end": 22.9938,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "with",
+     "word": "with",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "I",
+      "D"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "ih",
+      "dh"
+     ]
+    },
+    {
+     "start": 22.9938,
+     "end": 23.6188,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "love",
+     "word": "love",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 23.6188,
+     "end": 23.9313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "as",
+     "word": "as",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "z"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "z"
+     ]
+    },
+    {
+     "start": 23.9313,
+     "end": 24.2438,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "I’m",
+     "word": "I'm",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "m"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "m"
+     ]
+    },
+    {
+     "start": 24.2438,
+     "end": 24.5563,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "serv",
+     "word": "serving",
+     "slur": false,
+     "phonemes_sampa": [
+      "s",
+      "r="
+     ],
+     "phonemes_arpabet": [
+      "s",
+      "er"
+     ]
+    },
+    {
+     "start": 24.5563,
+     "end": 24.8688,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "-",
+     "word": "serving",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 24.8688,
+     "end": 25.1813,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "ing",
+     "word": "serving",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 25.1813,
+     "end": 25.4938,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "my",
+     "word": "my",
+     "slur": false,
+     "phonemes_sampa": [
+      "m",
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "m",
+      "ay"
+     ]
+    },
+    {
+     "start": 25.4938,
+     "end": 26.1188,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "neigh",
+     "word": "neighbor",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "EI"
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "ey"
+     ]
+    },
+    {
+     "start": 26.1188,
+     "end": 26.7438,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "bor,",
+     "word": "neighbor",
+     "slur": false,
+     "phonemes_sampa": [
+      "b",
+      "r="
+     ],
+     "phonemes_arpabet": [
+      "b",
+      "er"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 26.7438,
+   "end": 31.1188,
+   "notes": [
+    {
+     "start": 26.7438,
+     "end": 27.3688,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 27.3688,
+     "end": 27.6813,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 27.6813,
+     "end": 27.9938,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 27.9938,
+     "end": 28.6188,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 28.6188,
+     "end": 28.9313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 28.9313,
+     "end": 29.2438,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 29.2438,
+     "end": 30.1813,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 30.1813,
+     "end": 30.4938,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 30.4938,
+     "end": 31.1188,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 31.1188,
+   "end": 32.9938,
+   "notes": [
+    {
+     "start": 31.1188,
+     "end": 31.4313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 31.4313,
+     "end": 31.7438,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 31.7438,
+     "end": 32.9938,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "live,",
+     "word": "live",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih",
+      "v"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 33.6188,
+   "end": 35.4938,
+   "notes": [
+    {
+     "start": 33.6188,
+     "end": 33.9313,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 33.9313,
+     "end": 34.2438,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 34.2438,
+     "end": 35.4938,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "care,",
+     "word": "care",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "eh",
+      "r"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 36.1188,
+   "end": 37.9938,
+   "notes": [
+    {
+     "start": 36.1188,
+     "end": 36.4313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I’ll",
+     "word": "I'll",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "l"
+     ]
+    },
+    {
+     "start": 36.4313,
+     "end": 36.7438,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "in",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "n"
+     ]
+    },
+    {
+     "start": 36.7438,
+     "end": 37.9938,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "vite",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ay",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 38.6188,
+   "end": 41.7438,
+   "notes": [
+    {
+     "start": 38.6188,
+     "end": 38.9313,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 38.9313,
+     "end": 39.2438,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "u",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "j",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "y",
+      "uw"
+     ]
+    },
+    {
+     "start": 39.2438,
+     "end": 39.8688,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "nite,",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "ay",
+      "t"
+     ]
+    },
+    {
+     "start": 39.8688,
+     "end": 40.1813,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 40.1813,
+     "end": 40.4938,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 40.4938,
+     "end": 41.7438,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 41.7438,
+   "end": 46.7438,
+   "notes": [
+    {
+     "start": 41.7438,
+     "end": 42.3688,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 42.3688,
+     "end": 42.6813,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 42.6813,
+     "end": 42.9938,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 42.9938,
+     "end": 43.6188,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 43.6188,
+     "end": 43.9313,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 43.9313,
+     "end": 44.2438,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 44.2438,
+     "end": 45.1813,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 45.1813,
+     "end": 45.4938,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 45.4938,
+     "end": 46.7438,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 52.0421,
+   "end": 55.8338,
+   "notes": [
+    {
+     "start": 52.0421,
+     "end": 52.3755,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "Oh,",
+     "word": "Oh",
+     "slur": false,
+     "phonemes_sampa": [
+      "@U"
+     ],
+     "phonemes_arpabet": [
+      "ow"
+     ]
+    },
+    {
+     "start": 52.3755,
+     "end": 52.7088,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 52.7088,
+     "end": 53.3338,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "joy",
+     "word": "joy",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "OI"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "oy"
+     ]
+    },
+    {
+     "start": 53.3338,
+     "end": 53.6463,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "that",
+     "word": "that",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "{",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ae",
+      "t"
+     ]
+    },
+    {
+     "start": 53.6463,
+     "end": 53.9588,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 53.9588,
+     "end": 54.5838,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "feel",
+     "word": "feel",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "i",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "iy",
+      "l"
+     ]
+    },
+    {
+     "start": 54.5838,
+     "end": 54.8963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "when",
+     "word": "when",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "E",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "eh",
+      "n"
+     ]
+    },
+    {
+     "start": 54.8963,
+     "end": 55.2088,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 55.2088,
+     "end": 55.8338,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "say,",
+     "word": "say",
+     "slur": false,
+     "phonemes_sampa": [
+      "s",
+      "EI"
+     ],
+     "phonemes_arpabet": [
+      "s",
+      "ey"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 55.8338,
+   "end": 57.7088,
+   "notes": [
+    {
+     "start": 55.8338,
+     "end": 56.1463,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "“Come",
+     "word": "Come",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "V",
+      "m"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ah",
+      "m"
+     ]
+    },
+    {
+     "start": 56.1463,
+     "end": 56.4588,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 56.4588,
+     "end": 57.0838,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "see!”",
+     "word": "see",
+     "slur": false,
+     "phonemes_sampa": [
+      "s",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "s",
+      "iy"
+     ]
+    },
+    {
+     "start": 57.0838,
+     "end": 57.7088,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "-",
+     "word": "see",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 57.7088,
+   "end": 62.0838,
+   "notes": [
+    {
+     "start": 57.7088,
+     "end": 58.3338,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 58.3338,
+     "end": 58.6463,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 58.6463,
+     "end": 58.9588,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 58.9588,
+     "end": 59.5838,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 59.5838,
+     "end": 59.8963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 59.8963,
+     "end": 60.2088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 60.2088,
+     "end": 61.1463,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 61.1463,
+     "end": 61.4588,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 61.4588,
+     "end": 62.0838,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 62.0838,
+   "end": 67.7088,
+   "notes": [
+    {
+     "start": 62.0838,
+     "end": 62.3963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 62.3963,
+     "end": 62.7088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "will",
+     "word": "will",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "I",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "ih",
+      "l"
+     ]
+    },
+    {
+     "start": 62.7088,
+     "end": 63.3338,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "share",
+     "word": "share",
+     "slur": false,
+     "phonemes_sampa": [
+      "S",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "sh",
+      "eh",
+      "r"
+     ]
+    },
+    {
+     "start": 63.3338,
+     "end": 63.6463,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 63.6463,
+     "end": 63.9588,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "His",
+     "word": "His",
+     "slur": false,
+     "phonemes_sampa": [
+      "h",
+      "I",
+      "z"
+     ],
+     "phonemes_arpabet": [
+      "hh",
+      "ih",
+      "z"
+     ]
+    },
+    {
+     "start": 63.9588,
+     "end": 64.5838,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "light",
+     "word": "light",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ay",
+      "t"
+     ]
+    },
+    {
+     "start": 64.5838,
+     "end": 64.8963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 64.8963,
+     "end": 65.2088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "in",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "n"
+     ]
+    },
+    {
+     "start": 65.2088,
+     "end": 65.5213,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "vite",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ay",
+      "t"
+     ]
+    },
+    {
+     "start": 65.5213,
+     "end": 65.8338,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "my",
+     "word": "my",
+     "slur": false,
+     "phonemes_sampa": [
+      "m",
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "m",
+      "ay"
+     ]
+    },
+    {
+     "start": 65.8338,
+     "end": 66.1463,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "friends",
+     "word": "friends",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "r",
+      "E",
+      "n",
+      "d",
+      "z"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "r",
+      "eh",
+      "n",
+      "d",
+      "z"
+     ]
+    },
+    {
+     "start": 66.1463,
+     "end": 66.4588,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "with",
+     "word": "with",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "I",
+      "D"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "ih",
+      "dh"
+     ]
+    },
+    {
+     "start": 66.4588,
+     "end": 67.0838,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "me,",
+     "word": "me",
+     "slur": false,
+     "phonemes_sampa": [
+      "m",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "m",
+      "iy"
+     ]
+    },
+    {
+     "start": 67.0838,
+     "end": 67.7088,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "-",
+     "word": "me",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 67.7088,
+   "end": 72.0838,
+   "notes": [
+    {
+     "start": 67.7088,
+     "end": 68.3338,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 68.3338,
+     "end": 68.6463,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 68.6463,
+     "end": 68.9588,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 68.9588,
+     "end": 69.5838,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 69.5838,
+     "end": 69.8963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 69.8963,
+     "end": 70.2088,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 70.2088,
+     "end": 71.1463,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 71.1463,
+     "end": 71.4588,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 71.4588,
+     "end": 72.0838,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 72.0838,
+   "end": 73.9588,
+   "notes": [
+    {
+     "start": 72.0838,
+     "end": 72.3963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 72.3963,
+     "end": 72.7088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 72.7088,
+     "end": 73.9588,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "live,",
+     "word": "live",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih",
+      "v"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 74.5838,
+   "end": 76.4588,
+   "notes": [
+    {
+     "start": 74.5838,
+     "end": 74.8963,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 74.8963,
+     "end": 75.2088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 75.2088,
+     "end": 76.4588,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "care,",
+     "word": "care",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "eh",
+      "r"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 77.0838,
+   "end": 78.9588,
+   "notes": [
+    {
+     "start": 77.0838,
+     "end": 77.3963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I’ll",
+     "word": "I'll",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "l"
+     ]
+    },
+    {
+     "start": 77.3963,
+     "end": 77.7088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "in",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "n"
+     ]
+    },
+    {
+     "start": 77.7088,
+     "end": 78.9588,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "vite",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ay",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 79.5838,
+   "end": 82.7088,
+   "notes": [
+    {
+     "start": 79.5838,
+     "end": 79.8963,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 79.8963,
+     "end": 80.2088,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "u",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "j",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "y",
+      "uw"
+     ]
+    },
+    {
+     "start": 80.2088,
+     "end": 80.8338,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "nite,",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "ay",
+      "t"
+     ]
+    },
+    {
+     "start": 80.8338,
+     "end": 81.1463,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 81.1463,
+     "end": 81.4588,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 81.4588,
+     "end": 82.7088,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 82.7088,
+   "end": 87.7088,
+   "notes": [
+    {
+     "start": 82.7088,
+     "end": 83.3338,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 83.3338,
+     "end": 83.6463,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 83.6463,
+     "end": 83.9588,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 83.9588,
+     "end": 84.5838,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 84.5838,
+     "end": 84.8963,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 84.8963,
+     "end": 85.2088,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 85.2088,
+     "end": 86.1463,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 86.1463,
+     "end": 86.4588,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 86.4588,
+     "end": 87.7088,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 93.0071,
+   "end": 98.6738,
+   "notes": [
+    {
+     "start": 93.0071,
+     "end": 93.3405,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "Oh,",
+     "word": "Oh",
+     "slur": false,
+     "phonemes_sampa": [
+      "@U"
+     ],
+     "phonemes_arpabet": [
+      "ow"
+     ]
+    },
+    {
+     "start": 93.3405,
+     "end": 93.6738,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 93.6738,
+     "end": 94.2988,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "joy",
+     "word": "joy",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "OI"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "oy"
+     ]
+    },
+    {
+     "start": 94.2988,
+     "end": 94.6113,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "that",
+     "word": "that",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "{",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ae",
+      "t"
+     ]
+    },
+    {
+     "start": 94.6113,
+     "end": 94.9238,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 94.9238,
+     "end": 95.5488,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "feel",
+     "word": "feel",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "i",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "iy",
+      "l"
+     ]
+    },
+    {
+     "start": 95.5488,
+     "end": 95.8613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "when",
+     "word": "when",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "E",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "eh",
+      "n"
+     ]
+    },
+    {
+     "start": 95.8613,
+     "end": 96.1738,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 96.1738,
+     "end": 96.7988,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "hon",
+     "word": "honor",
+     "slur": false,
+     "phonemes_sampa": [
+      "A"
+     ],
+     "phonemes_arpabet": [
+      "aa"
+     ]
+    },
+    {
+     "start": 96.7988,
+     "end": 97.1113,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "or",
+     "word": "honor",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "r="
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "er"
+     ]
+    },
+    {
+     "start": 97.1113,
+     "end": 97.4238,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "my",
+     "word": "my",
+     "slur": false,
+     "phonemes_sampa": [
+      "m",
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "m",
+      "ay"
+     ]
+    },
+    {
+     "start": 97.4238,
+     "end": 98.0488,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "par",
+     "word": "parents",
+     "slur": false,
+     "phonemes_sampa": [
+      "p_h",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "eh",
+      "r"
+     ]
+    },
+    {
+     "start": 98.0488,
+     "end": 98.6738,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "ents,",
+     "word": "parents",
+     "slur": false,
+     "phonemes_sampa": [
+      "@",
+      "n",
+      "t",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "n",
+      "t",
+      "s"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 98.6738,
+   "end": 103.0488,
+   "notes": [
+    {
+     "start": 98.6738,
+     "end": 99.2988,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 99.2988,
+     "end": 99.6113,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 99.6113,
+     "end": 99.9238,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 99.9238,
+     "end": 100.5488,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 100.5488,
+     "end": 100.8613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 100.8613,
+     "end": 101.1738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 101.1738,
+     "end": 102.1113,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 102.1113,
+     "end": 102.4238,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 102.4238,
+     "end": 103.0488,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 103.0488,
+   "end": 108.6738,
+   "notes": [
+    {
+     "start": 103.0488,
+     "end": 103.3613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I’ll",
+     "word": "I'll",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "l"
+     ]
+    },
+    {
+     "start": 103.3613,
+     "end": 103.6738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "pre",
+     "word": "prepare",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "r",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "r",
+      "ih"
+     ]
+    },
+    {
+     "start": 103.6738,
+     "end": 104.2988,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "pare",
+     "word": "prepare",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "eh",
+      "r"
+     ]
+    },
+    {
+     "start": 104.2988,
+     "end": 104.6113,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "in",
+     "word": "in",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "n"
+     ]
+    },
+    {
+     "start": 104.6113,
+     "end": 104.9238,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "my",
+     "word": "my",
+     "slur": false,
+     "phonemes_sampa": [
+      "m",
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "m",
+      "ay"
+     ]
+    },
+    {
+     "start": 104.9238,
+     "end": 105.5488,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "home",
+     "word": "home",
+     "slur": false,
+     "phonemes_sampa": [
+      "h",
+      "@U",
+      "m"
+     ],
+     "phonemes_arpabet": [
+      "hh",
+      "ow",
+      "m"
+     ]
+    },
+    {
+     "start": 105.5488,
+     "end": 105.8613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "for",
+     "word": "for",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "O",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "ao",
+      "r"
+     ]
+    },
+    {
+     "start": 105.8613,
+     "end": 106.1738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 106.1738,
+     "end": 106.4863,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "Lord’s",
+     "word": "Lord's",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "O",
+      "r",
+      "d",
+      "z"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ao",
+      "r",
+      "d",
+      "z"
+     ]
+    },
+    {
+     "start": 106.4863,
+     "end": 106.7988,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "-",
+     "word": "Lord's",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 106.7988,
+     "end": 107.1113,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "sa",
+     "word": "sacred",
+     "slur": false,
+     "phonemes_sampa": [
+      "s",
+      "EI",
+      "k"
+     ],
+     "phonemes_arpabet": [
+      "s",
+      "ey",
+      "k"
+     ]
+    },
+    {
+     "start": 107.1113,
+     "end": 107.4238,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "cred",
+     "word": "sacred",
+     "slur": false,
+     "phonemes_sampa": [
+      "r",
+      "I",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "r",
+      "ih",
+      "d"
+     ]
+    },
+    {
+     "start": 107.4238,
+     "end": 108.0488,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "cov",
+     "word": "cov'nants",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 108.0488,
+     "end": 108.6738,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "’nants,",
+     "word": "cov'nants",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "@",
+      "n",
+      "t",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "ah",
+      "n",
+      "t",
+      "s"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 108.6738,
+   "end": 113.0488,
+   "notes": [
+    {
+     "start": 108.6738,
+     "end": 109.2988,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 109.2988,
+     "end": 109.6113,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 109.6113,
+     "end": 109.9238,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 109.9238,
+     "end": 110.5488,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 110.5488,
+     "end": 110.8613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 110.8613,
+     "end": 111.1738,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 111.1738,
+     "end": 112.1113,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 112.1113,
+     "end": 112.4238,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 112.4238,
+     "end": 113.0488,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 113.0488,
+   "end": 114.9238,
+   "notes": [
+    {
+     "start": 113.0488,
+     "end": 113.3613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 113.3613,
+     "end": 113.6738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 113.6738,
+     "end": 114.9238,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "live,",
+     "word": "live",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih",
+      "v"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 115.5488,
+   "end": 117.4238,
+   "notes": [
+    {
+     "start": 115.5488,
+     "end": 115.8613,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 115.8613,
+     "end": 116.1738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 116.1738,
+     "end": 117.4238,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "care,",
+     "word": "care",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "eh",
+      "r"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 118.0488,
+   "end": 119.9238,
+   "notes": [
+    {
+     "start": 118.0488,
+     "end": 118.3613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I’ll",
+     "word": "I'll",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "l"
+     ]
+    },
+    {
+     "start": 118.3613,
+     "end": 118.6738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "in",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "n"
+     ]
+    },
+    {
+     "start": 118.6738,
+     "end": 119.9238,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "vite",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ay",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 120.5488,
+   "end": 123.6738,
+   "notes": [
+    {
+     "start": 120.5488,
+     "end": 120.8613,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 120.8613,
+     "end": 121.1738,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "u",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "j",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "y",
+      "uw"
+     ]
+    },
+    {
+     "start": 121.1738,
+     "end": 121.7988,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "nite,",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "ay",
+      "t"
+     ]
+    },
+    {
+     "start": 121.7988,
+     "end": 122.1113,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 122.1113,
+     "end": 122.4238,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 122.4238,
+     "end": 123.6738,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 123.6738,
+   "end": 128.6738,
+   "notes": [
+    {
+     "start": 123.6738,
+     "end": 124.2988,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 124.2988,
+     "end": 124.6113,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 124.6113,
+     "end": 124.9238,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 124.9238,
+     "end": 125.5488,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 125.5488,
+     "end": 125.8613,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 125.8613,
+     "end": 126.1738,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 126.1738,
+     "end": 127.1113,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 127.1113,
+     "end": 127.4238,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 127.4238,
+     "end": 128.6738,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 133.9722,
+   "end": 139.6388,
+   "notes": [
+    {
+     "start": 133.9722,
+     "end": 134.3055,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "Oh,",
+     "word": "Oh",
+     "slur": false,
+     "phonemes_sampa": [
+      "@U"
+     ],
+     "phonemes_arpabet": [
+      "ow"
+     ]
+    },
+    {
+     "start": 134.3055,
+     "end": 134.6388,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 134.6388,
+     "end": 135.2638,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "joy",
+     "word": "joy",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "OI"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "oy"
+     ]
+    },
+    {
+     "start": 135.2638,
+     "end": 135.5763,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "that",
+     "word": "that",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "{",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ae",
+      "t"
+     ]
+    },
+    {
+     "start": 135.5763,
+     "end": 135.8888,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 135.8888,
+     "end": 136.5138,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "feel",
+     "word": "feel",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "i",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "iy",
+      "l"
+     ]
+    },
+    {
+     "start": 136.5138,
+     "end": 136.8263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "when",
+     "word": "when",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "E",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "eh",
+      "n"
+     ]
+    },
+    {
+     "start": 136.8263,
+     "end": 137.1388,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "I’m",
+     "word": "I'm",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "m"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "m"
+     ]
+    },
+    {
+     "start": 137.1388,
+     "end": 137.7638,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "faith",
+     "word": "faithful",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "EI",
+      "T"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "ey",
+      "th"
+     ]
+    },
+    {
+     "start": 137.7638,
+     "end": 138.0763,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "ful",
+     "word": "faithful",
+     "slur": false,
+     "phonemes_sampa": [
+      "f",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "f",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 138.0763,
+     "end": 138.3888,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 138.3888,
+     "end": 139.0138,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "true,",
+     "word": "true",
+     "slur": false,
+     "phonemes_sampa": [
+      "t",
+      "r",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "t",
+      "r",
+      "uw"
+     ]
+    },
+    {
+     "start": 139.0138,
+     "end": 139.6388,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "-",
+     "word": "true",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 139.6388,
+   "end": 144.0138,
+   "notes": [
+    {
+     "start": 139.6388,
+     "end": 140.2638,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 140.2638,
+     "end": 140.5763,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 140.5763,
+     "end": 140.8888,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 140.8888,
+     "end": 141.5138,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 141.5138,
+     "end": 141.8263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 141.8263,
+     "end": 142.1388,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 142.1388,
+     "end": 143.0763,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 143.0763,
+     "end": 143.3888,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 143.3888,
+     "end": 144.0138,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 144.6388,
+   "end": 146.5138,
+   "notes": [
+    {
+     "start": 144.6388,
+     "end": 145.2638,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "Serv",
+     "word": "Serving",
+     "slur": false,
+     "phonemes_sampa": [
+      "s",
+      "r="
+     ],
+     "phonemes_arpabet": [
+      "s",
+      "er"
+     ]
+    },
+    {
+     "start": 145.2638,
+     "end": 145.5763,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "ing",
+     "word": "Serving",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 145.5763,
+     "end": 145.8888,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "each",
+     "word": "each",
+     "slur": false,
+     "phonemes_sampa": [
+      "i",
+      "tS"
+     ],
+     "phonemes_arpabet": [
+      "iy",
+      "ch"
+     ]
+    },
+    {
+     "start": 145.8888,
+     "end": 146.5138,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "day,",
+     "word": "day",
+     "slur": false,
+     "phonemes_sampa": [
+      "d",
+      "EI"
+     ],
+     "phonemes_arpabet": [
+      "d",
+      "ey"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 146.5138,
+   "end": 149.6388,
+   "notes": [
+    {
+     "start": 146.5138,
+     "end": 146.8263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "there’s",
+     "word": "there's",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "E",
+      "r",
+      "z"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "eh",
+      "r",
+      "z"
+     ]
+    },
+    {
+     "start": 146.8263,
+     "end": 147.1388,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "im",
+     "word": "important",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "m"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "m"
+     ]
+    },
+    {
+     "start": 147.1388,
+     "end": 147.4513,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "por",
+     "word": "important",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "O",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ao",
+      "r"
+     ]
+    },
+    {
+     "start": 147.4513,
+     "end": 147.7638,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "tant",
+     "word": "important",
+     "slur": false,
+     "phonemes_sampa": [
+      "t",
+      "@",
+      "n",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "t",
+      "ah",
+      "n",
+      "t"
+     ]
+    },
+    {
+     "start": 147.7638,
+     "end": 148.0763,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "work",
+     "word": "work",
+     "slur": false,
+     "phonemes_sampa": [
+      "w",
+      "r=",
+      "k"
+     ],
+     "phonemes_arpabet": [
+      "w",
+      "er",
+      "k"
+     ]
+    },
+    {
+     "start": 148.0763,
+     "end": 148.3888,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "to",
+     "word": "to",
+     "slur": false,
+     "phonemes_sampa": [
+      "t_h",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "t",
+      "uw"
+     ]
+    },
+    {
+     "start": 148.3888,
+     "end": 149.0138,
+     "midi": 59,
+     "note": "B3",
+     "lyric": "do,",
+     "word": "do",
+     "slur": false,
+     "phonemes_sampa": [
+      "d",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "d",
+      "uw"
+     ]
+    },
+    {
+     "start": 149.0138,
+     "end": 149.6388,
+     "midi": 57,
+     "note": "A3",
+     "lyric": "-",
+     "word": "do",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 149.6388,
+   "end": 154.0138,
+   "notes": [
+    {
+     "start": 149.6388,
+     "end": 150.2638,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 150.2638,
+     "end": 150.5763,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 150.5763,
+     "end": 150.8888,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 150.8888,
+     "end": 151.5138,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 151.5138,
+     "end": 151.8263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 151.8263,
+     "end": 152.1388,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 152.1388,
+     "end": 153.0763,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 153.0763,
+     "end": 153.3888,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 153.3888,
+     "end": 154.0138,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 154.0138,
+   "end": 155.8888,
+   "notes": [
+    {
+     "start": 154.0138,
+     "end": 154.3263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 154.3263,
+     "end": 154.6388,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 154.6388,
+     "end": 155.8888,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "live,",
+     "word": "live",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih",
+      "v"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 156.5138,
+   "end": 158.3888,
+   "notes": [
+    {
+     "start": 156.5138,
+     "end": 156.8263,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "I",
+     "word": "I",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI"
+     ],
+     "phonemes_arpabet": [
+      "ay"
+     ]
+    },
+    {
+     "start": 156.8263,
+     "end": 157.1388,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "can",
+     "word": "can",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "{",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "ae",
+      "n"
+     ]
+    },
+    {
+     "start": 157.1388,
+     "end": 158.3888,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "care,",
+     "word": "care",
+     "slur": false,
+     "phonemes_sampa": [
+      "k_h",
+      "E",
+      "r"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "eh",
+      "r"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 159.0138,
+   "end": 160.8888,
+   "notes": [
+    {
+     "start": 159.0138,
+     "end": 159.3263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "I’ll",
+     "word": "I'll",
+     "slur": false,
+     "phonemes_sampa": [
+      "AI",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "ay",
+      "l"
+     ]
+    },
+    {
+     "start": 159.3263,
+     "end": 159.6388,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "in",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "I",
+      "n"
+     ],
+     "phonemes_arpabet": [
+      "ih",
+      "n"
+     ]
+    },
+    {
+     "start": 159.6388,
+     "end": 160.8888,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "vite",
+     "word": "invite",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ay",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 161.5138,
+   "end": 164.6388,
+   "notes": [
+    {
+     "start": 161.5138,
+     "end": 161.8263,
+     "midi": 71,
+     "note": "B4",
+     "lyric": "and",
+     "word": "and",
+     "slur": false,
+     "phonemes_sampa": [
+      "{",
+      "n",
+      "d"
+     ],
+     "phonemes_arpabet": [
+      "ae",
+      "n",
+      "d"
+     ]
+    },
+    {
+     "start": 161.8263,
+     "end": 162.1388,
+     "midi": 69,
+     "note": "A4",
+     "lyric": "u",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "j",
+      "u"
+     ],
+     "phonemes_arpabet": [
+      "y",
+      "uw"
+     ]
+    },
+    {
+     "start": 162.1388,
+     "end": 162.7638,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "nite,",
+     "word": "unite",
+     "slur": false,
+     "phonemes_sampa": [
+      "n",
+      "AI",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "n",
+      "ay",
+      "t"
+     ]
+    },
+    {
+     "start": 162.7638,
+     "end": 163.0763,
+     "midi": 67,
+     "note": "G4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 163.0763,
+     "end": 163.3888,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    },
+    {
+     "start": 163.3888,
+     "end": 164.6388,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "-",
+     "word": "unite",
+     "slur": true,
+     "phonemes_sampa": [],
+     "phonemes_arpabet": []
+    }
+   ]
+  },
+  {
+   "start": 164.6388,
+   "end": 169.6388,
+   "notes": [
+    {
+     "start": 164.6388,
+     "end": 165.2638,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 165.2638,
+     "end": 165.5763,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 165.5763,
+     "end": 165.8888,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 165.8888,
+     "end": 166.5138,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 166.5138,
+     "end": 166.8263,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 166.8263,
+     "end": 167.1388,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 167.1388,
+     "end": 168.0763,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 168.0763,
+     "end": 168.3888,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 168.3888,
+     "end": 169.6388,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  },
+  {
+   "start": 169.6388,
+   "end": 177.7388,
+   "notes": [
+    {
+     "start": 169.6388,
+     "end": 170.2771,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Liv",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "l",
+      "I"
+     ],
+     "phonemes_arpabet": [
+      "l",
+      "ih"
+     ]
+    },
+    {
+     "start": 170.2771,
+     "end": 170.5963,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "ing",
+     "word": "Living",
+     "slur": false,
+     "phonemes_sampa": [
+      "v",
+      "I",
+      "N"
+     ],
+     "phonemes_arpabet": [
+      "v",
+      "ih",
+      "ng"
+     ]
+    },
+    {
+     "start": 170.5963,
+     "end": 170.9154,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "the",
+     "word": "the",
+     "slur": false,
+     "phonemes_sampa": [
+      "D",
+      "@"
+     ],
+     "phonemes_arpabet": [
+      "dh",
+      "ah"
+     ]
+    },
+    {
+     "start": 170.9154,
+     "end": 171.5748,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "gos",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "g",
+      "A",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "g",
+      "aa",
+      "s"
+     ]
+    },
+    {
+     "start": 171.5748,
+     "end": 171.9044,
+     "midi": 66,
+     "note": "F#4",
+     "lyric": "pel",
+     "word": "gospel",
+     "slur": false,
+     "phonemes_sampa": [
+      "p",
+      "@",
+      "l"
+     ],
+     "phonemes_arpabet": [
+      "p",
+      "ah",
+      "l"
+     ]
+    },
+    {
+     "start": 171.9044,
+     "end": 172.2341,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "of",
+     "word": "of",
+     "slur": false,
+     "phonemes_sampa": [
+      "V",
+      "v"
+     ],
+     "phonemes_arpabet": [
+      "ah",
+      "v"
+     ]
+    },
+    {
+     "start": 172.2341,
+     "end": 173.3334,
+     "midi": 64,
+     "note": "E4",
+     "lyric": "Je",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "dZ",
+      "i"
+     ],
+     "phonemes_arpabet": [
+      "jh",
+      "iy"
+     ]
+    },
+    {
+     "start": 173.3334,
+     "end": 173.7388,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "sus",
+     "word": "Jesus",
+     "slur": false,
+     "phonemes_sampa": [
+      "z",
+      "@",
+      "s"
+     ],
+     "phonemes_arpabet": [
+      "z",
+      "ah",
+      "s"
+     ]
+    },
+    {
+     "start": 173.7388,
+     "end": 177.7388,
+     "midi": 62,
+     "note": "D4",
+     "lyric": "Christ.",
+     "word": "Christ",
+     "slur": false,
+     "phonemes_sampa": [
+      "k",
+      "r",
+      "AI",
+      "s",
+      "t"
+     ],
+     "phonemes_arpabet": [
+      "k",
+      "r",
+      "ay",
+      "s",
+      "t"
+     ]
+    }
+   ]
+  }
+ ]
+}
